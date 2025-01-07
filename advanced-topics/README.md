@@ -101,9 +101,14 @@ This section covers advanced cloud computing concepts and cross-platform strateg
 ### Management Tools
 - [HashiCorp Suite](https://www.hashicorp.com/)
 - [Kubernetes](https://kubernetes.io/)
+  - [Helm](https://helm.sh/) (Package Manager)
+  - [Istio](https://istio.io/) (Service Mesh)
 - [Docker](https://www.docker.com/)
 - [Ansible](https://www.ansible.com/)
 - [Jenkins](https://www.jenkins.io/)
+- [GitHub Actions](https://github.com/features/actions)
+- [GitLab CI](https://docs.gitlab.com/ee/ci/)
+- [CircleCI](https://circleci.com/)
 
 ### Monitoring & Observability
 - [Prometheus](https://prometheus.io/)
@@ -111,6 +116,9 @@ This section covers advanced cloud computing concepts and cross-platform strateg
 - [ELK Stack](https://www.elastic.co/elastic-stack)
 - [Datadog](https://www.datadoghq.com/)
 - [New Relic](https://newrelic.com/)
+- [Jaeger](https://www.jaegertracing.io/) (Distributed Tracing)
+- [OpenTelemetry](https://opentelemetry.io/) (Observability Framework)
+- [Thanos](https://thanos.io/) (Highly Available Prometheus)
 
 ## 📈 Learning Resources
 

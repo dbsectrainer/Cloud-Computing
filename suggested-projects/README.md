@@ -33,16 +33,25 @@ This section provides hands-on project ideas to help you practice cloud computin
 ## 🔄 DevOps Projects
 
 ### CI/CD Pipeline
-- Multi-environment deployment pipeline
-- Container orchestration with Kubernetes
-- Blue-green deployment implementation
-- Automated testing framework
+- Multi-environment deployment pipeline using GitHub Actions/GitLab CI
+- Container orchestration with Kubernetes and Helm charts
+- Blue-green deployment with Istio service mesh
+- Automated testing framework with integrated security scanning
+- CI/CD metrics dashboard with Grafana
 
 ### Infrastructure as Code
-- Multi-tier application infrastructure
-- Cross-region deployment
-- Disaster recovery setup
-- Auto-scaling environment
+- Multi-tier application infrastructure using Terraform modules
+- Cross-region deployment with state management
+- Disaster recovery setup with automated failover
+- Auto-scaling environment with custom metrics
+- Infrastructure testing with Terratest
+
+### Observability Projects
+- Distributed tracing implementation with Jaeger
+- Metrics collection with Prometheus and Thanos
+- Log aggregation with ELK stack
+- Custom OpenTelemetry instrumentation
+- SLO/SLI monitoring dashboard
 
 ## 🔒 Security Projects
 
