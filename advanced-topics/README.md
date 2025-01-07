@@ -103,12 +103,39 @@ This section covers advanced cloud computing concepts and cross-platform strateg
 - [Kubernetes](https://kubernetes.io/)
   - [Helm](https://helm.sh/) (Package Manager)
   - [Istio](https://istio.io/) (Service Mesh)
+  - [OpenShift](https://www.openshift.com/) (Enterprise Kubernetes)
 - [Docker](https://www.docker.com/)
 - [Ansible](https://www.ansible.com/)
 - [Jenkins](https://www.jenkins.io/)
 - [GitHub Actions](https://github.com/features/actions)
 - [GitLab CI](https://docs.gitlab.com/ee/ci/)
 - [CircleCI](https://circleci.com/)
+
+### Virtualization & Hypervisors
+- [VMware](https://www.vmware.com/)
+  - vSphere
+  - ESXi
+  - vCenter
+  - vSAN
+  - NSX
+- [Microsoft Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/)
+  - Windows Server Hyper-V
+  - Hyper-V Manager
+  - Failover Clustering
+  - Storage Migration
+- [VirtualBox](https://www.virtualbox.org/)
+  - VM Management
+  - Snapshots
+  - Network Configuration
+  - Host-Only Networking
+  - Shared Folders
+
+### Cloud Integration
+- Hybrid Cloud Connectivity
+- VM Migration Tools
+- Cross-Platform Management
+- Backup & DR Solutions
+- Performance Monitoring
 
 ### Monitoring & Observability
 - [Prometheus](https://prometheus.io/)

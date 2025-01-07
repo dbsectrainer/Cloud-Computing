@@ -35,9 +35,37 @@ This section contains resources for learning Azure, Microsoft's cloud computing 
 
 ### Containers & Serverless
 - [Azure Kubernetes Service (AKS)](https://azure.microsoft.com/services/kubernetes-service/)
+  - Container Orchestration
+  - Integrated CI/CD
+  - Azure Policy Integration
+  - Azure Monitor Integration
 - [Container Instances](https://azure.microsoft.com/services/container-instances/)
+  - Serverless Containers
+  - Fast Startup
+  - Container Groups
+  - Virtual Network Integration
 - [Functions](https://azure.microsoft.com/services/functions/)
+  - Event-driven Serverless Computing
+  - Supported Languages (.NET, Node.js, Python, Java, PowerShell)
+  - Triggers & Bindings
+    - HTTP/WebHook Triggers
+    - Timer Triggers
+    - Queue Triggers
+    - Blob Storage Triggers
+    - Cosmos DB Triggers
+  - Durable Functions
+  - Function Scaling
+  - Cold Start Management
+  - Application Insights Integration
+  - Deployment Slots
+  - Custom Handlers
 - [App Service](https://azure.microsoft.com/services/app-service/)
+  - Web Apps
+  - API Apps
+  - Mobile Apps
+  - WebJobs
+  - Auto-scaling
+  - Deployment Slots
 
 ### AI & Machine Learning
 - [Azure Machine Learning](https://azure.microsoft.com/services/machine-learning/)

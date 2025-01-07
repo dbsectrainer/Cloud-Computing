@@ -35,9 +35,29 @@ This section contains resources for learning GCP, Google's suite of cloud comput
 
 ### Containers & Serverless
 - [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine)
+  - Container Orchestration
+  - Auto-scaling
+  - Node Pools
+  - Workload Management
 - [Cloud Run](https://cloud.google.com/run)
+  - Serverless Containers
+  - Auto-scaling
+  - Custom Domains
+  - Traffic Splitting
 - [Cloud Functions](https://cloud.google.com/functions)
+  - Event-driven Computing
+  - Supported Runtimes (Node.js, Python, Go, Java, .NET, Ruby)
+  - Triggers (HTTP, Cloud Storage, Pub/Sub, Firestore)
+  - Cold Start Optimization
+  - Function Scaling
+  - Background Functions
+  - Function Testing
+  - Monitoring & Logging
 - [App Engine](https://cloud.google.com/appengine)
+  - Standard Environment
+  - Flexible Environment
+  - Auto-scaling
+  - Traffic Splitting
 
 ### Big Data & ML
 - [BigQuery](https://cloud.google.com/bigquery)
