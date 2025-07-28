@@ -191,7 +191,6 @@ graph TD
 ### YouTube Channels
 - [AWS Online Tech Talks](https://www.youtube.com/user/AWSwebinars)
 - [Google Cloud Tech](https://www.youtube.com/user/googlecloudplatform)
-- [Microsoft Azure](https://www.youtube.com/user/windowsazure)
 - [Cloud Guru](https://www.youtube.com/c/ACloudGuru)
 - [TechWorld with Nana](https://www.youtube.com/c/TechWorldwithNana)
 - [DevOps Toolkit](https://www.youtube.com/c/DevOpsToolkit)
