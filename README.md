@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/your-username/your-repo/issues)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dbsectrainer/Cloud-Computing/issues)
 
 A comprehensive collection of resources for learning cloud computing, focusing on major cloud platforms (AWS, Azure, GCP) and essential concepts. This repository provides structured learning paths, practical examples, and curated resources for cloud practitioners at all levels.
 
@@ -209,10 +209,9 @@ graph TD
 ### Podcasts
 - [AWS Podcast](https://aws.amazon.com/podcasts/aws-podcast/)
 - [Google Cloud Platform Podcast](https://www.gcppodcast.com/)
-- [Azure Friday](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
+- [Azure Friday](https://learn.microsoft.com/en-us/shows/azure-friday/)
 - [Kubernetes Podcast](https://kubernetespodcast.com/)
 - [The Cloud Cast](https://www.thecloudcast.net/)
-- [DevOps Cafe](https://devopscafe.org/)
 
 ### Official Documentation
 - [AWS Documentation](https://docs.aws.amazon.com/)

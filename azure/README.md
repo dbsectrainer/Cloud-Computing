@@ -71,7 +71,7 @@ This section contains resources for learning Azure, Microsoft's cloud computing 
 - [Azure Machine Learning](https://azure.microsoft.com/services/machine-learning/)
 - [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/)
 - [Bot Service](https://azure.microsoft.com/services/bot-services/)
-- [OpenAI Service](https://azure.microsoft.com/services/openai/)
+- [OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
 
 ### DevOps & Tools
 - [Azure DevOps](https://azure.microsoft.com/services/devops/)

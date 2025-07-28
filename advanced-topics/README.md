@@ -145,7 +145,6 @@ This section covers advanced cloud computing concepts and cross-platform strateg
 - [New Relic](https://newrelic.com/)
 - [Jaeger](https://www.jaegertracing.io/) (Distributed Tracing)
 - [OpenTelemetry](https://opentelemetry.io/) (Observability Framework)
-- [Thanos](https://thanos.io/) (Highly Available Prometheus)
 
 ## 📈 Learning Resources
 
